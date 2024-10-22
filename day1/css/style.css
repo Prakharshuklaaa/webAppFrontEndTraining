@@ -1,0 +1,15 @@
+.container{
+    background-color: aqua;
+    padding: 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    ji
+}
+
+.d1{
+    background-color: blue;
+    margin: 2px;
+    width: 10%;
+    padding: 10px;
+}

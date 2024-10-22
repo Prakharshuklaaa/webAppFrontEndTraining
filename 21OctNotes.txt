@@ -1,0 +1,20 @@
+Basic of HTML
+Boiler Plate
+tags, attributes
+Assessement on Forms
+
+
+Types of selectors:
+1. Universal
+2. Element
+3. 
+
+
+
+Box Modelling
+flexbox
+Media Query
+
+Learn frame work lifecycle - Angular
+Learn - Javascript
+SCSS - new things
