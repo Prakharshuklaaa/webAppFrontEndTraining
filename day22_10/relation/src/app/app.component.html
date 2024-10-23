@@ -1,0 +1,14 @@
+<div class="container">
+  <div class="saved-notes">
+    <h3>Saved Notes( In Child Component)</h3>
+    <app-child [childNotes]="parentNotes" (childNoteDeleted)="onDeleteNote($event)"></app-child>
+  </div>
+
+  <div class="notepad">
+    <div style="width: 60%;">
+      <h2>Note Pad (In Parent Component)</h2>
+      <textarea [(ngModel)]="note" rows="5" cols="40" placeholder="Write your note here..."></textarea>
+         <button (click)="onSave()">Save</button>
+    </div>    
+  </div>
+</div>

@@ -1,0 +1,8 @@
+.saved-notes{
+    height: 100px;
+    width: 300px;
+    border-left: 1px;     
+}
+textarea{
+    background-color: aquamarine;
+}
